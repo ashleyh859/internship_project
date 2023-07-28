@@ -25,6 +25,8 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 ## 🧹🔍 Data Cleaning
 
+[SQL Code] (SQLQuery1.sql)
+
 • Data Manipulation Language (DML): Utilized UPDATE statements to modify existing data and set missing values to specific default values when creating new columns.
 
 • Data Definition Language (DDL): Used ALTER TABLE and DROP COLUMN statements to add and drop columns, removing confidential information and unnecessary columns.
