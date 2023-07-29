@@ -36,7 +36,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 5. Does a student's *financial gap* influence the student's engagement level?
 
 # Key Skills Used 🛠️
-## [🧹🔍Data Cleaning with Microsoft SQL 🔍]((https://github.com/ashleyh859/SQLquery.git)
+## [🧹🔍Data Cleaning with Microsoft SQL 🔍](https://github.com/ashleyh859/SQLquery.git)
 
 ### [SQL Code](https://github.com/ashleyh859/SQLquery.git)
 
