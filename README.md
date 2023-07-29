@@ -1,4 +1,4 @@
-![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)# 🎓 Data Analytics Project for Educational Empowerment: Uncovering Engagement Patterns at a Nonprofit 💡
+# 🎓 Data Analytics Project for Educational Empowerment: Uncovering Engagement Patterns at a Nonprofit 💡
 
 ## 🎯👋 Introduction and Project Objective
 
@@ -44,8 +44,7 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 [Excel Visual] (https://github.com/ashleyh859/excelvisual.git)
 
-[Image](![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/128cf7d2-9060-400d-896a-c016ac00e3e9)
-
+![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)
 
 | Diagram Name  | Quick Observations + Analysis |
 | ------------- | ------------- |
@@ -55,6 +54,8 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 ### Tableau for Data Visualization Dashboards 📊
 [Tableau Dashboard] (https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
+
+![Dashboard 1](https://github.com/ashleyh859/internship_project/assets/138391564/a151eaa6-5979-4f5e-87f3-129bbfc58c29)
 
 | Diagram Name  | Quick Observations + Analysis |
 | ------------- | ------------- |
