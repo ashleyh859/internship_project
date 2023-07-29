@@ -23,26 +23,24 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 [SQL Code] (https://github.com/ashleyh859/SQLquery.git)
 
-• Data Manipulation Language (DML): Utilized UPDATE statements to modify existing data and set missing values to specific default values when creating new columns.
-
-• Data Definition Language (DDL): Used ALTER TABLE and DROP COLUMN statements to add and drop columns, removing confidential information and unnecessary columns.
-
-• Data Cleaning and Transformation: Used SQL functions like REPLACE, PARSENAME, and CONCAT to reformat and extract existing data to standardize GPA values and classify college types into distinct categories (Public/Private).
-
-• Conditional Logic and Data Filtering: Utilized CASE statements to categorize data and filter rows based on specific conditions, such as identifying transfer status and distinguishing active and inactive participants.
+| Skill Name  | Description |
+| ------------- | ------------- |
+|Data Manipulation Language (DML)|Utilized UPDATE statements to modify existing data and set missing values to specific default values when creating new columns.|
+|Data Definition Language (DDL)|Used ALTER TABLE and DROP COLUMN statements to add and drop columns, removing confidential information and unnecessary columns.|
+|Data Cleaning and Transformation|Used SQL functions like REPLACE, PARSENAME, and CONCAT to reformat and extract existing data to standardize GPA values and classify college types into distinct categories (Public/Private).|
+|Conditional Logic and Data Filtering|Utilized CASE statements to categorize data and filter rows based on specific conditions, such as identifying transfer status and distinguishing active and inactive participants.
 
 ### 🔍📊 Data Exploration
 
 [SQL Code] (https://github.com/ashleyh859/SQLquery.git)
 
-• Data Manipulation Language (DML): Utilized SQL functions such as COUNT, SUM, and CASE to categorize students as active or inactive participants based on their program type
-
-• Data Cleaning and Transformation: Used CASE statements to categorize students into distinct engagement levels
-
-• Conditional Logic and Data Filtering: Filtered data based on program participation, engagement levels, attendance at Success Orientation, and financial gap
+| Skill Name  | Description |
+| ------------- | ------------- |
+|Data Manipulation Language (DML)|Utilized SQL functions such as COUNT, SUM, and CASE to categorize students as active or inactive participants based on their program type.|
+|Data Cleaning and Transformation|Used CASE statements to categorize students into distinct engagement levels|
+|Conditional Logic and Data Filtering|Filtered data based on program participation, engagement levels, attendance at Success Orientation, and financial gap
 
 ### 📊📈 Excel (Pivot Table) Visualizations
-
 
 | Diagram Name  | Quick Observations + Analysis |
 | ------------- | ------------- |
@@ -57,12 +55,10 @@ Conversely, some colleges show a higher percentage of inactive participants, sug
 ### Tableau for Data Visualization Dashboards 📊
 [Tableau Dashboard] (https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
 
-4. Impact of Success Orientation Attendance on Engagement Levels
-   
-Out of the 235 students who attended the Success Orientation, a substantial majority (213 students) are classified as active participants. This demonstrates that attending the Success Orientation has a strong positive correlation with higher engagement levels, so the nonprofit should focus on improving to make the Orientation more engaging.
+| Diagram Name  | Quick Observations + Analysis |
+| ------------- | ------------- |
+| 4. Impact of Success Orientation Attendance on Engagement Levels  |Out of the 235 students who attended the Success Orientation, a substantial majority (213 students) are classified as active participants. This demonstrates that attending the Success Orientation has a strong positive correlation with higher engagement levels, so the nonprofit should focus on improving to make the Orientation more engaging.|
+| 5. Influence of Financial Gap on Student Engagement Level| Notably, students with smaller financial gaps (e.g., "Under $1000", "$1001-$3000", "$3001-$6000") and higher financial gaps ("Over $10000") tend to have a higher proportion of active participants. The medium ranges are proportionally equal. Overall, Students with smaller financial gaps tend to have higher engagement rates, while students with larger gaps may face challenges in actively participating.|
 
-5. Influence of Financial Gap on Student Engagement Level
-
-Notably, students with smaller financial gaps (e.g., "Under $1000", "$1001-$3000", "$3001-$6000") and higher financial gaps ("Over $10000") tend to have a higher proportion of active participants. The medium ranges are proportionally equal. Overall, Students with smaller financial gaps tend to have higher engagement rates, while students with larger gaps may face challenges in actively participating.
 
 
