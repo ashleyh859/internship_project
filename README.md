@@ -44,7 +44,7 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 [Excel Visual] (https://github.com/ashleyh859/excelvisual.git)
 
-![Image](![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/128cf7d2-9060-400d-896a-c016ac00e3e9)
+[Image](![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/128cf7d2-9060-400d-896a-c016ac00e3e9)
 
 
 | Diagram Name  | Quick Observations + Analysis |
