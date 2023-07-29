@@ -14,6 +14,8 @@ This nonprofit organization empowers low-income and/or first-generation students
 - [Excel Pivot Table Visualizations](#-excel-pivot-table-visualizations)
 - [Tableau for Data Visualization Dashboards](#tableau-for-data-visualization-dashboards-)
 - [Conclusion](#conclusion)
+- [Findings](#-findings)
+- [Recommendations](#-recommendations)
 
 ## ❓📋Project Questions
 
