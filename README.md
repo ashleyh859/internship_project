@@ -44,46 +44,16 @@ This nonprofit organization empowers low-income and/or first-generation students
 ### 📊📈 Excel (Pivot Table) Visualizations
 
 
-
 | Diagram Name  | Quick Observations + Analysis |
 | ------------- | ------------- |
-| 1. Proportion of Program Categories among Active and Inactive Participants  | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. 
+| 1. Proportion of Program Categories among Active and Inactive Participants  | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation. Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't.  |
+| 2. Levels of Engagement Based on Grade Level  | Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." Majority of the proportion of students fall under both "Medium Engagement" and "Low Engagement" categories, and even for each grade level, it is clear that these students also are part of "Medium and Low Engagement".   |
 
-On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.
-
-Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't.  |
-| 2. Levels of Engagement Based on Grade Level  | 
-
-Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." 
-
-Majority of the proportion of students fall under both "Medium Engagement" and "Low Engagement" categories, and even for each grade level, it is clear that these students also are part of "Medium and Low Engagement".   |
-
-| Diagram Name | Quick Observations + Analysis |
-| 1. Proportion of Program Categories among Active and Inactive Participants | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't. |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-The analysis reveals the distribution of program categories among active and inactive participants. 
-
-Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. 
-
-On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.
-
-Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't.
-
-2. Levels of Engagement Based on Grade Level
-
-Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." 
-
-Majority of the proportion of students fall under both "Medium Engagement" and "Low Engagement" categories, and even for each grade level, it is clear that these students also are part of "Medium and Low Engagement". 
-
-3. Distribution of Active and Inactive Participants Across Different Colleges
-
-The analysis reveals the distribution of active and inactive participants across various colleges. It is evident that participation varies significantly among colleges. Some colleges have a higher percentage of active participants, while others have a higher percentage of inactive participants.
+| 3. Distribution of Active and Inactive Participants Across Different Colleges| The analysis reveals the distribution of active and inactive participants across various colleges. It is evident that participation varies significantly among colleges. Some colleges have a higher percentage of active participants, while others have a higher percentage of inactive participants.
 
 Several colleges stand out with a majority of active participants, indicating a higher level of engagement. For instance, Babson College, Barnard College, Brown University, Dartmouth College, Harvard University, and Yale University have 100% active participants.
 
-Conversely, some colleges show a higher percentage of inactive participants, suggesting challenges in maintaining engagement levels. Notable examples include CUNY Borough of Manhattan Community College, CUNY Bronx Community College, and CUNY LaGuardia Community College.
+Conversely, some colleges show a higher percentage of inactive participants, suggesting challenges in maintaining engagement levels. Notable examples include CUNY Borough of Manhattan Community College, CUNY Bronx Community College, and CUNY LaGuardia Community College. |
 
 ### Tableau for Data Visualization Dashboards 📊
 [Tableau Dashboard] (https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
