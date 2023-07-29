@@ -38,7 +38,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 # Key Skills Used 🛠️
 ## [🧹🔍Data Cleaning with Microsoft SQL 🔍](https://github.com/ashleyh859/SQLquery.git)
 
-### [SQL Code](https://github.com/ashleyh859/SQLquery.git)
+### [Link to see my SQL Code](https://github.com/ashleyh859/SQLquery.git)
 
 | Skill Name  | Description |
 | ------------- | ------------- |
@@ -47,9 +47,9 @@ It wants to empower low-income and/or first-generation students, who face signif
 |**Data Cleaning and Transformation**|Used SQL functions like ``REPLACE``, ``PARSENAME``, and ``CONCAT`` to reformat and extract existing data to standardize GPA values and classify college types into distinct categories (Public/Private).|
 |**Conditional Logic and Data Filtering**|Utilized ``CASE`` statements to categorize data and filter rows based on specific conditions, such as identifying transfer status and distinguishing active and inactive participants.
 
-## 🔍📊 Data Exploration
+## [🔍📊 Data Exploration](https://github.com/ashleyh859/SQLquery.git)
 
-### [SQL Code](https://github.com/ashleyh859/SQLquery.git)
+### [Link to see my SQL Code](https://github.com/ashleyh859/SQLquery.git)
 
 
 | Skill Name  | Description |
@@ -60,7 +60,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 
 ## 📊📈 Excel (Pivot Table) Visualizations
 
-**[Excel Visual](https://github.com/ashleyh859/excelvisual.git)**
+**[Link to Excel Visual](https://github.com/ashleyh859/excelvisual.git)**
 
 **![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)**
 
