@@ -47,8 +47,14 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 | Diagram Name  | Quick Observations + Analysis |
 | ------------- | ------------- |
-| 1. Proportion of Program Categories among Active and Inactive Participants  | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't.  |
-| 2. Levels of Engagement Based on Grade Level  | Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." 
+| 1. Proportion of Program Categories among Active and Inactive Participants  | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. 
+
+On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.
+
+Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't.  |
+| 2. Levels of Engagement Based on Grade Level  | 
+
+Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." 
 
 Majority of the proportion of students fall under both "Medium Engagement" and "Low Engagement" categories, and even for each grade level, it is clear that these students also are part of "Medium and Low Engagement".   |
 
