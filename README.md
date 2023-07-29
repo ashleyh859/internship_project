@@ -43,14 +43,9 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 ### 📊📈 Excel (Pivot Table) Visualizations
 
+
 | Diagram Name | Quick Observations + Analysis |
-| 1. Proportion of Program Categories among Active and Inactive Participants | The analysis reveals the distribution of program categories among active and inactive participants. 
-
-Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. 
-
-On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.
-
-Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't. |
+| 1. Proportion of Program Categories among Active and Inactive Participants | The analysis reveals the distribution of program categories among active and inactive participants. Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't. |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
 
