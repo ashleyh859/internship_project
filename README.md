@@ -32,7 +32,7 @@ This nonprofit organization empowers low-income and/or first-generation students
 
 ## 🔍📊 Data Exploration
 
-### [SQL Code] (https://github.com/ashleyh859/SQLquery.git)[Uploading SQLQuery1.sql…]()
+### [SQL Code] (https://github.com/ashleyh859/SQLquery.git)
 
 
 | Skill Name  | Description |
