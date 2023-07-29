@@ -42,7 +42,17 @@ This nonprofit organization empowers low-income and/or first-generation students
 • Conditional Logic and Data Filtering: Filtered data based on program participation, engagement levels, attendance at Success Orientation, and financial gap
 
 ### 📊📈 Excel (Pivot Table) Visualizations
-1. Proportion of Program Categories among Active and Inactive Participants
+
+| Diagram Name | Quick Observations + Analysis |
+| 1. Proportion of Program Categories among Active and Inactive Participants | The analysis reveals the distribution of program categories among active and inactive participants. 
+
+Notably, the majority of students fall under the "Success Inactive" and "Past Participant" categories, constituting 905 and 217 individuals, respectively. 
+
+On the other hand, "Access," "Re-engagement," "Alumni," and "Success" programs consist entirely of active participants, with 209, 100, 427, and 481 students, respectively. This indicates a higher level of engagement among students enrolled in these programs, which could signify the success of these initiatives in fostering ongoing participation.
+
+Remarkably, the total count of active participants (1,217) is nearly on par with the number of inactive participants (1,122) across all program categories. This suggests that there are almost the same proportion of students who are actively engaged and those who aren't. |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 The analysis reveals the distribution of program categories among active and inactive participants. 
 
@@ -67,6 +77,14 @@ Several colleges stand out with a majority of active participants, indicating a 
 Conversely, some colleges show a higher percentage of inactive participants, suggesting challenges in maintaining engagement levels. Notable examples include CUNY Borough of Manhattan Community College, CUNY Bronx Community College, and CUNY LaGuardia Community College.
 
 ### Tableau for Data Visualization Dashboards 📊
+[Tableau Dashboard] (https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
 
+4. Impact of Success Orientation Attendance on Engagement Levels
+   
+Out of the 235 students who attended the Success Orientation, a substantial majority (213 students) are classified as active participants. This demonstrates that attending the Success Orientation has a strong positive correlation with higher engagement levels, so the nonprofit should focus on improving to make the Orientation more engaging.
+
+5. Influence of Financial Gap on Student Engagement Level
+
+Notably, students with smaller financial gaps (e.g., "Under $1000", "$1001-$3000", "$3001-$6000") and higher financial gaps ("Over $10000") tend to have a higher proportion of active participants. The medium ranges are proportionally equal. Overall, Students with smaller financial gaps tend to have higher engagement rates, while students with larger gaps may face challenges in actively participating.
 
 
