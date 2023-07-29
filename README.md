@@ -6,6 +6,15 @@ This was the first data analytics project that I've ever created after learning 
 
 This nonprofit organization empowers low-income and/or first-generation students, who face significant challenges in accessing higher-level education, with resources and support to succeed in receiving their secondary degrees. It provides opportunities like one-on-one counseling, assistance with financial aid, and more throughout their journey. This program starts with the Access Program, which helps students apply to secondary education, and then to the Success Program, which supports students during their college time. 
 
+## Table of Contents
+- [Project Questions](#project-questions)
+- [Key skills Used](#key-skills-used-%EF%B8%8F)
+- [Data Cleaning with Microsoft SQL](#data-cleaning-with-microsoft-sql-)
+- [Data Exploration](#-data-exploration)
+- [Excel Pivot Table Visualizations](#-excel-pivot-table-visualizations)
+- [Tableau for Data Visualization Dashboards](#tableau-for-data-visualization-dashboards-)
+- [Conclusion](#conclusion)
+
 ## ❓📋Project Questions
 
 1. What proportion do the categories in the program take up between Active and Inactive Participants?
