@@ -38,7 +38,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 # Key Skills Used 🛠️
 ## 🧹🔍Data Cleaning with Microsoft SQL 🔍
 
-### [SQL Code] (https://github.com/ashleyh859/SQLquery.git)
+### [SQL Code](https://github.com/ashleyh859/SQLquery.git)
 
 | Skill Name  | Description |
 | ------------- | ------------- |
@@ -60,9 +60,9 @@ It wants to empower low-income and/or first-generation students, who face signif
 
 ## 📊📈 Excel (Pivot Table) Visualizations
 
-**[Excel Visual]**(https://github.com/ashleyh859/excelvisual.git)
+**[Excel Visual](https://github.com/ashleyh859/excelvisual.git)**
 
-**![Excel Dashboard]**(https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)
+**![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)**
 
 | Diagram Name  | Quick Observations + Analysis | Recommendations
 | ------------- | ------------- |---------------|
@@ -71,9 +71,9 @@ It wants to empower low-income and/or first-generation students, who face signif
 | **3. Distribution of Active and Inactive Participants Across Different Colleges**| The analysis reveals the distribution of active and inactive participants across various colleges. It is evident that participation *varies significantly* among colleges. Some colleges have a higher percentage of active participants, while others have a higher percentage of inactive participants. Several colleges stand out with a majority of active participants, indicating a higher level of engagement. For instance, Babson College, Barnard College, Brown University, Dartmouth College, Harvard University, and Yale University have 100% active participants. Conversely, some colleges show a higher percentage of inactive participants, suggesting challenges in maintaining engagement levels such as CUNY Borough of Manhattan Community College, CUNY Bronx Community College, and CUNY LaGuardia Community College. |Conducting a comprehensive *survey* such as overall college experiences and support services can be helpful in gaining valuable insights.|
 
 ## 📊💻 Tableau for Data Visualization Dashboards 📊
-**[Tableau Dashboard]**(https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
+**[Tableau Dashboard](https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)**
 
-**![Dashboard 1]**(https://github.com/ashleyh859/internship_project/assets/138391564/a151eaa6-5979-4f5e-87f3-129bbfc58c29)
+**![Dashboard 1](https://github.com/ashleyh859/internship_project/assets/138391564/a151eaa6-5979-4f5e-87f3-129bbfc58c29)**
 
 | Diagram Name  | Quick Observations + Analysis | Recommendations
 | ------------- | ------------- |---|
