@@ -49,7 +49,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 
 ## 🔍📊 Data Exploration
 
-### [SQL Code] (https://github.com/ashleyh859/SQLquery.git)
+### [SQL Code](https://github.com/ashleyh859/SQLquery.git)
 
 
 | Skill Name  | Description |
