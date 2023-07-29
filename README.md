@@ -58,9 +58,9 @@ It wants to empower low-income and/or first-generation students, who face signif
 |**Data Cleaning and Transformation**|Used ``CASE`` statements to categorize students into distinct engagement levels|
 |**Conditional Logic and Data Filtering**|Filtered data based on program participation, engagement levels, attendance at Success Orientation, and financial gap
 
-## 📊📈 Excel (Pivot Table) Visualizations
+## [📊📈 Excel (Pivot Table) Visualizations](https://github.com/ashleyh859/excelvisual.git)
 
-**[Link to Excel Visual](https://github.com/ashleyh859/excelvisual.git)**
+**[Link to see my Excel Dashboard](https://github.com/ashleyh859/excelvisual.git)**
 
 **![Excel Dashboard](https://github.com/ashleyh859/internship_project/assets/138391564/53b1fdfc-708e-4dc1-96d0-c36fe11a64a5)**
 
@@ -70,7 +70,7 @@ It wants to empower low-income and/or first-generation students, who face signif
 | **2. Levels of Engagement Based on Grade Level**  | Across all grade levels, a total of 50 students exhibit "Low Engagement." The majority of students, a total of 75, display "Medium Engagement" across various grade levels. Among the students, a total of 17 are characterized by "High Engagement." *Majority* of the proportion of students fall under both "Medium Engagement" and "Low Engagement" categories, and even for *each grade level*, it is clear that these students also are part of "Medium and Low Engagement".   |To implement more programs and foster higher engagement levels among specific grade levels, they should tailor and create *specific programs* to meet each *grade's needs*: orientation for freshmen, and career workshops for seniors.| 
 | **3. Distribution of Active and Inactive Participants Across Different Colleges**| The analysis reveals the distribution of active and inactive participants across various colleges. It is evident that participation *varies significantly* among colleges. Some colleges have a higher percentage of active participants, while others have a higher percentage of inactive participants. Several colleges stand out with a majority of active participants, indicating a higher level of engagement. For instance, Babson College, Barnard College, Brown University, Dartmouth College, Harvard University, and Yale University have 100% active participants. Conversely, some colleges show a higher percentage of inactive participants, suggesting challenges in maintaining engagement levels such as CUNY Borough of Manhattan Community College, CUNY Bronx Community College, and CUNY LaGuardia Community College. |Conducting a comprehensive *survey* such as overall college experiences and support services can be helpful in gaining valuable insights.|
 
-## 📊💻 Tableau for Data Visualization Dashboards 📊
+## [📊💻 Tableau for Data Visualization Dashboards 📊](https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)
 **[Tableau Dashboard](https://public.tableau.com/app/profile/ashley.huang1806/viz/UncoveringEngagementPatternsataNonprofit/Dashboard1?publish=yes)**
 
 **![Dashboard 1](https://github.com/ashleyh859/internship_project/assets/138391564/a151eaa6-5979-4f5e-87f3-129bbfc58c29)**
